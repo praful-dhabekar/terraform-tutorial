@@ -1,4 +1,8 @@
 # Local .terraform directories
+**/.terraform/*
+
 terraform-variables/.terraform/*
+
+terraform-locals/.terraform/*
 
 terraform-variables/.terraform/providers/registry.terraform.io/hashicorp/aws/5.65.0/linux_amd64/terraform-provider-aws_v5.65.0_x5
